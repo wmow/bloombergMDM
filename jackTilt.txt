@@ -1,0 +1,117 @@
+tiltWeights['Weights'] = [
+2	#AAL
+,0	#ABF
+,0	#ADM
+,0	#AHT
+,1.5#ANTO
+,-2	#AUTO
+,0	#AV.
+,0	#AVV
+,0	#AZN
+,-1	#BA.
+,-1	#BAB
+,0	#BARC
+,0	#BATS
+,0	#BDEV
+,1.5#BHP
+,0	#BKG
+,0	#BLND
+,-0.5#BNZL
+,0	#BP
+,0	#BRBY
+,0	#BT-A
+,0	#CCH
+,0	#CCL
+,0	#CNA
+,0	#CPG
+,0	#CRDA
+,0	#CRH
+,0	#CTEC
+,1	#DCC
+,0	#DGE
+,0	#DLG
+,1.5#EVR
+,0	#EXPN
+,-0.5#EZJ
+,0	#FERG
+,0	#FLTR
+,1.5#FRES
+,0	#GFS
+,1.5#GLEN
+,0	#GSK
+,0	#GVC
+,0	#HIK
+,0.5#HL.
+,0	#HLMA
+,0	#HMSO
+,0.5#HSBA
+,0	#HSX
+,0	#IAG
+,0	#IHG
+,0.5#III
+,0	#IMB
+,0	#INF
+,0	#ITRK
+,0	#ITV
+,0	#JD.
+,0	#JE.
+,1	#JMAT
+,0	#KGF
+,0	#LAND
+,0.5	#LGEN
+,0.5	#LLOY
+,0.5	#LSE
+,0	#MCRO
+,0	#MDC
+,-1	#MGGT
+,0	#MKS
+,0	#MNDI
+,0.5#MNG
+,0.5#MRO
+,0	#MRW
+,0	#NG.
+,0	#NMC
+,0	#NXT
+,-0.5#OCDO
+,0.5#PFG
+,0	#PHNX
+,2	#POLY
+,0.5#PRU
+,0	#PSN
+,0	#PSON
+,0	#RB.
+,0.5#RBS
+,0	#RDSA
+,0	#RDSB
+,0	#REL
+,1.5#RIO
+,-1	#RMG
+,0	#RMV
+,-1	#RR.
+,0	#RSA
+,0	#RTO
+,0	#SBRY
+,0.5#SDR
+,0	#SGE
+,0	#SGRO
+,0	#SKG
+,0.5#SLA
+,0	#SMDS
+,1.5#SMIN
+,0.5#SMT
+,0	#SN.
+,0	#SPX
+,0	#SSE
+,0.5#STAN
+,0.5#STJ
+,0	#SVT
+,0	#TSCO
+,0	#TUI
+,0	#TW.
+,0	#ULVR
+,0	#UU.
+,0	#VOD
+,0	#WG.
+,0	#WPP
+,0	#WTB
+]
